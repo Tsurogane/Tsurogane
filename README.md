@@ -5,6 +5,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tsurogane&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
-<h2>Rede Social</h2>
- <a href="[https://www.linkedin.com/in/caiquezaneti/](https://www.linkedin.com/in/pedro-henrique-menesese-711630276/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <h2>Hobbies</h2>
+Andar de Bicicleta.
+Escutar Musica.
