@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚Estudo programação desde 2024.<br>Gosto de utilizar a criatividade e organização para resolver meus problemas<br>💻Tenho grande interesse em cyber segurança.<br>🎮Gosto de jogos tanto jogar como criar jogos.<br>🎧Gosto de passeios de bicicleta e escutar musicas.</p>
+<p align="left">📚Estudo programação desde 2024.<br>💡Gosto de utilizar a criatividade e organização para resolver meus problemas<br>💻Tenho grande interesse em cyber segurança.<br>🎮Gosto de jogos tanto jogar como criar jogos.<br>🎧Gosto de escutar musicas, e passeios de bicicleta .</p>
 
 ###
 
