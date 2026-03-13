@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">📚Estudo programação desde 2024.<br>💡Gosto de utilizar a criatividade e organização para resolver meus problemas<br>💻Tenho grande interesse em cyber segurança.<br>🎮Gosto de jogos tanto jogar como criar jogos.<br>🎧Gosto de escutar musicas, e passeios de bicicleta .</p>
+<p align="left">📚Estudo programação desde 2024.<br>💡Gosto de utilizar a criatividade e organização para resolver meus problemas<br>💻Tenho grande interesse em cyber segurança.<br>🎮Aprecio jogos, tanto jogar quanto desenvolver.<br>🎧Gosto de escutar musicas, e passeios de bicicleta.</p>
 
 ###
 
@@ -66,15 +66,5 @@
 ###
 
 <p align="left">🎮Formado em Programação de jogos digitais.<br>📟Cursando Desenvolvimento de Sistemas</p>
-
-###
-
-<img src="https://raw.githubusercontent.com/Tsurogane/Tsurogane/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
 
 ###
