@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Me chamo Pedro Meneses. tenho 18 anos, e resíduo na Região de São Paulo. Sou formando em programação de jogos digitais e estou atualmente cursando desenvolvimento de sistemas.</p>
+<p align="left">Me chamo Pedro Meneses. tenho 18 anos, e resíduo na Região de São Paulo.</p>
 
 ###
 
