@@ -65,6 +65,7 @@
 
 ###
 
-<p align="left">🎮Formado em Programação de jogos digitais.<br>📟Cursando Desenvolvimento de Sistemas</p>
+<p align="left">🎮Formado em Programação de jogos digitais.<br>
+</p>
 
 ###
